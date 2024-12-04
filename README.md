@@ -1,3 +1,3 @@
-# favorite_places_app
+# favorite_places
 
 A new Flutter project.

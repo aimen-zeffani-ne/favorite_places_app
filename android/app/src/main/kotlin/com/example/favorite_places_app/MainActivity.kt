@@ -1,4 +1,4 @@
-package com.example.favorite_places_app
+package com.example.favorite_places
 
 import io.flutter.embedding.android.FlutterActivity
 
